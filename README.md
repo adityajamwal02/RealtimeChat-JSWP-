@@ -6,4 +6,4 @@ Another segment to include interaction portal between users (students and mentor
 
 ## Tech Stack 
 
-EXPRESSJS, WEBSOCKET.IO , NODEJS)
+(EXPRESSJS, WEBSOCKET.IO , NODEJS)
